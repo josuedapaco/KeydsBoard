@@ -14,3 +14,4 @@ Programa para la utilización del Teclado KeydsBoard
 Para mas información
 ====================
 mail:jdpadilla6@espe.edu.ec
+mail:apjacome@espe.edu.ec
